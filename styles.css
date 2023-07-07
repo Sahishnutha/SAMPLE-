@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/04/26/52/71/360_F_426527111_59QersN3ayDJ7Sfa5qwnKkp4l1O5tuAp.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.sahi{
+    text-align: center;
+}
+marquee{
+    background-color: rgba(248, 76, 76, 0.466);
+    text-size: more larger;
+}
+h1{
+    background-color:rgba(209, 80, 80, 0.466);
+    text-size:larger;
+    text-align:center;
+}
+h3{ 
+    text-size:larger;
+}
+p{
+    text-size:larger;
+}
